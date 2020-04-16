@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt-CI
+name: project-OpenWrt-CI
 
 on:
   schedule:
@@ -17,7 +17,7 @@ on:
     branches: 
       - master
 #    paths:
-#      - '.github/workflows/OpenWrt-CI.yml'
+#      - '.github/workflows/project-OpenWrt-CI.yml'
 #      - 'LeanR9-x64-simple'
 
   watch:
